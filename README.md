@@ -36,8 +36,7 @@ VWF and download waveform after the execution.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-
+/* Program for flipflops and verify its truth table in quartus using Verilog programming.
 module exp_8(D,clk,Q,Qbar);
 input D,clk;
 output reg Q;
@@ -50,6 +49,10 @@ Q=D;
 Qbar=~D;
 end
 endmodule
+
+ Developed by: Janani k
+ 
+ RegisterNumber: 24900523
 
 **RTL LOGIC FOR FLIPFLOPS**
 
